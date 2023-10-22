@@ -1,7 +1,7 @@
  Action Jinja2 Linting
 ========================
 
-Linting Yaml files using the j2lint package directly from pypi.
+Linting Jinja2 files using the j2lint package directly from pypi.
 
 ## Usage
 
